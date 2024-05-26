@@ -1,0 +1,20 @@
+Lecture-1
+Setting Up the Enviroment
+
+Installation of Node.js Enviroment for JS Code Execution
+Installation of Visual Studio Code or JetBrains Fleet or any other Editor
+
+
+Lecture-2 
+Git and GitHub
+
+Setting Up of GitHub CodeSpaces
+Installation of the Node js in the CodeSpaces
+
+
+Lecture-3
+Declaration of Variables and Constants
+
+
+Lecture-4
+DataTypes and ECMA Standards
